@@ -23,7 +23,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba, com foco 
 
 ### 🔥 Projetos em Destaque
 
-#### 🏥 API de Plantões Médicos
+#### 🏥 API - Plantões Médicos
 - **Java | Spring Boot | PostgreSQL | Railway**
 - API REST para gerenciamento de médicos e plantões
 - [Repositório](https://github.com/Erixian/API-para-agenda-de-plantoes-medicos)
