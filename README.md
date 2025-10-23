@@ -18,7 +18,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba, com foco 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-F05032?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
-### 📈 Estatísticas do GitHub
+### 📈 Estatísticas GitHub
 [![Seus stats](https://github-readme-stats.vercel.app/api?username=Erixian&show_icons=true&theme=radical)](https://github.com/Erixian)
 
 ### 🔥 Projetos em Destaque
