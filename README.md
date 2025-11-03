@@ -7,16 +7,18 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba, com foco 
 ### 💼 Tecnologias & Ferramentas
 
 **Linguagens:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-cc0000?style=for-the-badge&logo=coffeescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffff00?style=for-the-badge&logo=JavaScript&logoColor=black)
+![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=SQL&logoColor=white)
 
 **Frameworks & Ferramentas:**  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-D14836?style=for-the-badge&logo=Railway&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-ffffff?style=for-the-badge&logo=Railway&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-F05032?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-274e13?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![BootStrap](https://img.shields.io/badge/BootStrap-6a4ec1?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a75ad?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📈 Estatísticas GitHub
 [![Seus stats](https://github-readme-stats.vercel.app/api?username=Erixian&show_icons=true&theme=radical)](https://github.com/Erixian)
