@@ -3,8 +3,8 @@
 ### 🚀 Desenvolvedor Web em Formação
 
 Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba. Apaixonado por resolver problemas complexos e criar soluções eficientes. Atualmente estudo Java e Spring Framework para 
-desenvolvimento back-end mas estou aberto para outras áreas que envolvam a entrega do produto. Neste momento, busco aprender o maximo possivel para me tornar um profissional, realmente, alinhado
-com o mercado.
+desenvolvimento back-end mas estou aberto para outras áreas que envolvam a entrega do produto. Neste momento, busco aprender o maximo possivel para me tornar um profissional cada alinhado
+com o mercado e que entenda todos os processos da entrega de um sistema.
 
 ### 💼 Tecnologias & Ferramentas
 
