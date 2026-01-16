@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Marcos Marciano!
 
-### 🚀 Desenvolvedor Web em Formação
+### 🚀 Desenvolvedor de sistemas em Formação
 
 Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba. Apaixonado por resolver problemas complexos e criar soluções eficientes. Atualmente estudo Java e Spring Framework para 
 desenvolvimento back-end mas estou aberto para outras áreas que envolvam a entrega do produto. Neste momento, busco aprender o maximo possivel para me tornar um profissional cada alinhado
