@@ -19,6 +19,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba, com foco 
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-274e13?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/BootStrap-6a4ec1?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a75ad?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📈 Estatísticas GitHub
 [![Seus stats](https://github-readme-stats.vercel.app/api?username=Erixian&show_icons=true&theme=radical)](https://github.com/Erixian)
