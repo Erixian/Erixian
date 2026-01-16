@@ -2,7 +2,9 @@
 
 ### 🚀 Desenvolvedor Web em Formação
 
-Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba, com foco em desenvolvimento Java, JavaScript, HTML e CSS. Apaixonado por resolver problemas complexos e criar soluções eficientes.
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC-Sorocaba. Apaixonado por resolver problemas complexos e criar soluções eficientes. Atualmente estudo Java e Spring Framework para 
+desenvolvimento back-end mas estou aberto para outras áreas que envolvam a entrega do produto. Neste momento, busco aprender o maximo possivel para me tornar um profissional, realmente, alinhado
+com o mercado.
 
 ### 💼 Tecnologias & Ferramentas
 
