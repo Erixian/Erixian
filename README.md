@@ -19,7 +19,7 @@ com o mercado e que entenda todos os processos da entrega de um sistema.
 ![Railway](https://img.shields.io/badge/Railway-ffffff?style=for-the-badge&logo=Railway&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-274e13?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![BootStrap](https://img.shields.io/badge/BootStrap-6a4ec1?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-6a4ec1?style=for-the-badge&logo=react&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a75ad?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
