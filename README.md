@@ -23,9 +23,6 @@ com o mercado e que entenda todos os processos da entrega de um sistema.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a75ad?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 📈 Estatísticas GitHub
-[![Seus stats](https://github-readme-stats.vercel.app/api?username=Erixian&show_icons=true&theme=radical)](https://github.com/Erixian)
-
 ### 🔥 Projetos em Destaque
 #### 🌤️ Weather App
 - **Java | Spring Boot | HTML/CSS | Thymeleaf**
