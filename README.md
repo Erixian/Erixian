@@ -27,16 +27,16 @@ com o mercado e que entenda todos os processos da entrega de um sistema.
 [![Seus stats](https://github-readme-stats.vercel.app/api?username=Erixian&show_icons=true&theme=radical)](https://github.com/Erixian)
 
 ### 🔥 Projetos em Destaque
-
-#### 🏥 API - Plantões Médicos
-- **Java | Spring Boot | PostgreSQL | Railway**
-- API REST para gerenciamento de médicos e plantões
-- [Repositório](https://github.com/Erixian/API-para-agenda-de-plantoes-medicos)
-
 #### 🌤️ Weather App
 - **Java | Spring Boot | HTML/CSS | Thymeleaf**
 - Aplicação web que consome API de previsão do tempo
+- [Aplicação](https://weatherapp-production-3260.up.railway.app/)
 - [Repositório](https://github.com/Erixian/WeatherApp)
+  
+#### 🏥 API (CRUD) - Plantões Médicos
+- **Java | Spring Boot | PostgreSQL | Railway**
+- API REST para gerenciamento de médicos e plantões
+- [Repositório](https://github.com/Erixian/API-para-agenda-de-plantoes-medicos)
 
 ### 📫 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-marciano-b67633314/)
